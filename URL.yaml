@@ -1,0 +1,14 @@
+test01:
+  url: "1deviceService/v1/devices?count=100&offset=0"
+
+test02:
+  url: "2deviceService/v1/devices?count=100&offset=0"
+
+test03:
+  url: "3deviceService/v1/devices?count=100&offset=0"
+
+test04:
+  url: "4deviceService/v1/devices?count=100&offset=0"
+
+test05:
+  url: "5deviceService/v1/devices?count=100&offset=0"

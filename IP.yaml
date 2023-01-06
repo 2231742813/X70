@@ -1,0 +1,3 @@
+test:
+  IP: "http://10.10.10.138:80/"
+  Authorization: 'Basic dXZsaWdodDp1dmxpZ2h0LXNlcnZlci1nM2E0QGlqaw=='
