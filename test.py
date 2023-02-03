@@ -13,3 +13,6 @@ class Test:
 
 Test().num1()
 Test().num2()
+
+
+print(bytes.fromhex('\xba4c'))

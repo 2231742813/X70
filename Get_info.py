@@ -1,13 +1,5 @@
-# import socket
-# ip_port = ('202.11.11.3', 2929)
-# s = socket.socket()
-# s.connect(ip_port)
-# mes = '0123'
-# s.sendall(mes.isascii())
-# s.close()
-
-123
 import socket
+
 a = socket.socket(socket.AF_INET,socket.SOCK_STREAM)
 host = socket.gethostname()
 port = 2929
@@ -24,3 +16,13 @@ print(type(msg))
 print(msg)
 a.close()
 
+
+
+
+# import socket
+# ip_port = ('202.11.11.3', 2929)
+# s = socket.socket()
+# s.connect(ip_port)
+# mes = '0123'
+# s.sendall(mes.isascii())
+# s.close()
